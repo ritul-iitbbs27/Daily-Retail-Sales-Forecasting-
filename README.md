@@ -1,3 +1,4 @@
+
 # Daily Retail Sales Forecasting — LSTM vs ARIMA
 
 Forecasting daily store sales using a univariate LSTM on 30-day historical
@@ -99,3 +100,4 @@ evaluated store set — see notebook for details.)*
 - Add promo/holiday signals as additional LSTM input features
   (multivariate model) rather than univariate sales alone.
 - Experiment with longer lookback windows and multi-step forecasting.
+
